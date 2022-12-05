@@ -1,0 +1,4 @@
+make soup
+make pizza
+Clean the bag.
+Do the laundry.
